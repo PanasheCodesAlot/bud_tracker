@@ -343,10 +343,10 @@
 
 			<div class="flex flex-wrap gap-4 justify-center items-center pt-4">
 				<button class="px-6 py-3.5 rounded-xl bg-white text-slate-950 font-semibold hover:bg-slate-100 transition-all flex items-center gap-3 shadow-xl text-sm">
-					<a href="/app-release (1).apk" download>Download APK Securely</a>
+					<a href="/Bud Tracker (1).apk" download>Download APK Securely</a>
 				</button>
 				<button class="px-6 py-3.5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-700 font-semibold text-slate-200 transition-all text-sm">
-					<a href="/app-release (1).apk" download>Web App PWA Link</a>
+					<a href="/Bud Tracker (1).apk" download>Web App PWA Link</a>
 				</button>
 			</div>
 
